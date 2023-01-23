@@ -1,2 +1,3 @@
 # hello
-깃허브 미션!
+My first repository on GitHub
+i love cokie, cake, bread!
